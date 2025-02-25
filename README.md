@@ -1,4 +1,4 @@
-PyBluez
+PyBluez Library
 =======
 
 [![Build Status](https://github.com/pybluez/pybluez/workflows/Build/badge.svg)](https://github.com/pybluez/pybluez/actions?query=workflow%3ABuild)
